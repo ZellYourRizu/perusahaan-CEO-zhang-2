@@ -30,7 +30,7 @@ https://templatemo.com/tm-600-prism-flux
                 id: 3,
                 title: 'Blockchain Vault',
                 description: 'Secure decentralized storage solution using advanced encryption and distributed ledger technology.',
-                image: '<img src="https://image2url.com/r2/default/images/1773383983771-4a1d593d-d4f1-4ace-94bc-1fbce027d73f.jpg" alt="image" />',
+                image: 'https://image2url.com/r2/default/images/1773383983771-4a1d593d-d4f1-4ace-94bc-1fbce027d73f.jpg',
                 tech: ['Ethereum', 'Solidity', 'Web3']
             },
             {
@@ -482,3 +482,4 @@ https://templatemo.com/tm-600-prism-flux
             }
 
         });
+
